@@ -1,0 +1,20 @@
+Nome:
+alberta
+Vidas:
+3
+Pistas:
+7
+Total:
+40
+Bot:
+1 branco
+2 amarelo
+4 amarelo
+1 amarelo
+4 amarelo
+Jogador:
+1 branco
+1 vermelho
+5 amarelo
+2 azul
+1 azul
